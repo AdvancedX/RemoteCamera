@@ -1,0 +1,16 @@
+..\..\output\ov7725.o: ..\..\Drivers\BSP\OV7725\ov7725.c
+..\..\output\ov7725.o: ..\..\Drivers\./BSP/OV7725/sccb.h
+..\..\output\ov7725.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\ov7725.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+..\..\output\ov7725.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h
+..\..\output\ov7725.o: ..\..\Drivers\CMSIS\Include\core_cm3.h
+..\..\output\ov7725.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\ov7725.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\ov7725.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\ov7725.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\ov7725.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h
+..\..\output\ov7725.o: ..\..\Drivers\./BSP/OV7725/ov7725.h
+..\..\output\ov7725.o: ..\..\Drivers\./BSP/OV7725/ov7725cfg.h
+..\..\output\ov7725.o: ..\..\Drivers\./SYSTEM/usart/usart.h
+..\..\output\ov7725.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\ov7725.o: ..\..\Drivers\./SYSTEM/delay/delay.h

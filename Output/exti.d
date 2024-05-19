@@ -1,0 +1,16 @@
+..\..\output\exti.o: ..\..\Drivers\BSP\EXTI\exti.c
+..\..\output\exti.o: ..\..\Drivers\./SYSTEM/sys/sys.h
+..\..\output\exti.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h
+..\..\output\exti.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h
+..\..\output\exti.o: ..\..\Drivers\CMSIS\Include\core_cm3.h
+..\..\output\exti.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\exti.o: ..\..\Drivers\CMSIS\Include\cmsis_version.h
+..\..\output\exti.o: ..\..\Drivers\CMSIS\Include\cmsis_compiler.h
+..\..\output\exti.o: ..\..\Drivers\CMSIS\Include\cmsis_armcc.h
+..\..\output\exti.o: ..\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h
+..\..\output\exti.o: ..\..\Drivers\./SYSTEM/delay/delay.h
+..\..\output\exti.o: ..\..\Drivers\./BSP/LED/led.h
+..\..\output\exti.o: ..\..\Drivers\./BSP/BEEP/beep.h
+..\..\output\exti.o: ..\..\Drivers\./BSP/KEY/key.h
+..\..\output\exti.o: ..\..\Drivers\./BSP/EXTI/exti.h
+..\..\output\exti.o: ..\..\Drivers\./BSP/OV7725/ov7725.h
